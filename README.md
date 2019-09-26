@@ -1,6 +1,5 @@
 # My first Django website, Portfolio_Django
 
-==========================================================================
 
 This is my first try using Django and, I am loving it. 
 
